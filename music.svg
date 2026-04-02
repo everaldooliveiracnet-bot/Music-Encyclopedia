@@ -10,7 +10,8 @@
   <defs
      id="defs1" />
   <path
-     fill="#ffffff"
+     fill="#fff"
      d="m -17843.4,-18046.099 167,43 -42.8,167.1 -167.2,-42.9 m 124.2,-30.2 13.3,-48.9 -48.9,-13.2 -13.2,48.8"
-     id="path1" />
+     id="path1"
+     style="fill:#ffffff" />
 </svg>
